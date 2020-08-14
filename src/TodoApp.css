@@ -1,0 +1,23 @@
+table{
+  border-collapse: collapse;  
+    
+}
+th {
+  background-color: #4CAF50;
+  color: white;
+  
+  
+}   
+
+td {
+   text-align: left;
+}
+
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+th, td {
+  padding: 15px;  
+}
